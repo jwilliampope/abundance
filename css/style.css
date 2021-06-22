@@ -1,5 +1,3 @@
-/*  font-family: 'Source Sans Pro', sans-serif;  */
-
 * {
   box-sizing: border-box;
 }
@@ -13,9 +11,8 @@ body {
   background: #c17948;
 }
 
-/* =================
- Typography
- ================= */
+/* =Typography
+ ------------------------------------------------ */
 
 h1,
 h2,
@@ -71,9 +68,8 @@ strong {
   font-weight: 600;
 }
 
-/* =================
- Intro section
- ================= */
+/* =Intro Section
+ ------------------------------------------------ */
 
 .intro {
   background-image: url(../img/audi.jpg);
@@ -88,9 +84,8 @@ strong {
   min-height: 50vh;
 }
 
-/* =================
- main-content section
- ================= */
+/* =Main Content Section
+ ------------------------------------------------ */
 
 .main-content {
   padding: 2em 1em;
@@ -107,9 +102,8 @@ strong {
   margin-right: auto;
 }
 
-/* =================
- form
- ================= */
+/* =Form
+ ------------------------------------------------ */
 
 .email-collector {
   width: 80%;
@@ -159,9 +153,8 @@ input:focus {
   transform: scale(1.03);
 }
 
-/* =================
- media queries
- ================= */
+/* =Media Queries
+ ------------------------------------------------ */
 
 @media (min-width: 500px) {
   body {
